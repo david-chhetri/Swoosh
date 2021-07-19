@@ -650,6 +650,8 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable swoosh_button
+drawable swoosh_button_checked
+drawable swoosh_toggle
 drawable swooshlogo
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -689,7 +691,7 @@ id barrier
 id beginning
 id blocking
 id bottom
-id button
+id button2
 id buttonPanel
 id center
 id center_horizontal
@@ -717,6 +719,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
+id getStartedBtn
 id gone
 id group_divider
 id groups
@@ -728,6 +731,7 @@ id ifRoom
 id image
 id imageView
 id imageView2
+id imageView3
 id info
 id invisible
 id italic
@@ -793,6 +797,7 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textView
 id textView2
 id textView3
 id textView4
@@ -800,6 +805,9 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id toggleButton
+id toggleButton2
+id toggleButton3
 id top
 id topPanel
 id uniform
@@ -841,6 +849,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_league
 layout activity_welcome
 layout notification_action
 layout notification_action_tombstone
@@ -895,8 +904,20 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string background_image
+string co_ed
+string desired_league
+string find_a_team
+string get_started
+string go_all_in
+string logo
+string mens
+string next
+string on_going_all_out
 string search_menu_title
 string status_bar_notification_info_overflow
+string welcome_screen
+string womens
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

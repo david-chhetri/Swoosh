@@ -24,6 +24,10 @@
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-hdpi/desiredleaguebg.png"
     },
     {
+        "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable_swoosh_toggle.xml.flat",
+        "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable/swoosh_toggle.xml"
+    },
+    {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_swooshlogo.png.flat",
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-xxxhdpi/swooshlogo.png"
     },
@@ -92,6 +96,10 @@
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-xxhdpi/welcomescreenbg.png"
     },
     {
+        "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/layout_activity_league.xml.flat",
+        "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/layout/activity_league.xml"
+    },
+    {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_swooshlauncher.png.flat",
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/mipmap-xxxhdpi/swooshlauncher.png"
     },
@@ -154,6 +162,10 @@
     {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable-xxhdpi_desiredleaguebg.png.flat",
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-xxhdpi/desiredleaguebg.png"
+    },
+    {
+        "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable_swoosh_button_checked.xml.flat",
+        "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable/swoosh_button_checked.xml"
     },
     {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/font_montserrat.xml.flat",
