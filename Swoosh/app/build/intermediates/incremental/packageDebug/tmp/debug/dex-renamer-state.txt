@@ -1,0 +1,4 @@
+#Mon Jul 19 09:56:13 EDT 2021
+base.0=/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
