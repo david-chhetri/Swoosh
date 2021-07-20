@@ -64,6 +64,10 @@
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-mdpi/desiredleaguebg.png"
     },
     {
+        "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/layout_activity_skill.xml.flat",
+        "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/layout/activity_skill.xml"
+    },
+    {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable-mdpi_exercisebg.png.flat",
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-mdpi/exercisebg.png"
     },
@@ -140,12 +144,12 @@
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-xxxhdpi/welcomescreenbg.png"
     },
     {
-        "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable-hdpi_exercisebg.png.flat",
-        "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-hdpi/exercisebg.png"
-    },
-    {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable_swoosh_button.xml.flat",
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable/swoosh_button.xml"
+    },
+    {
+        "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable-hdpi_exercisebg.png.flat",
+        "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-hdpi/exercisebg.png"
     },
     {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable-mdpi_welcomescreenbg.png.flat",
@@ -160,12 +164,12 @@
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable-xxhdpi_desiredleaguebg.png.flat",
-        "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-xxhdpi/desiredleaguebg.png"
-    },
-    {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable_swoosh_button_checked.xml.flat",
         "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable/swoosh_button_checked.xml"
+    },
+    {
+        "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/drawable-xxhdpi_desiredleaguebg.png.flat",
+        "source": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/src/main/res/drawable-xxhdpi/desiredleaguebg.png"
     },
     {
         "merged": "/Users/davidchhetri/Desktop/Swoosh/Swoosh/app/build/intermediates/res/merged/debug/font_montserrat.xml.flat",

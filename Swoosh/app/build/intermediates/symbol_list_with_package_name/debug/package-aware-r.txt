@@ -691,7 +691,7 @@ id barrier
 id beginning
 id blocking
 id bottom
-id button2
+id button
 id buttonPanel
 id center
 id center_horizontal
@@ -732,9 +732,11 @@ id image
 id imageView
 id imageView2
 id imageView3
+id imageView4
 id info
 id invisible
 id italic
+id leagueNextBtn
 id left
 id line1
 id line3
@@ -801,6 +803,7 @@ id textView
 id textView2
 id textView3
 id textView4
+id textView5
 id time
 id title
 id titleDividerNoCustom
@@ -808,6 +811,8 @@ id title_template
 id toggleButton
 id toggleButton2
 id toggleButton3
+id toggleButton4
+id toggleButton5
 id top
 id topPanel
 id uniform
@@ -850,6 +855,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_league
+layout activity_skill
 layout activity_welcome
 layout notification_action
 layout notification_action_tombstone
@@ -905,11 +911,15 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string background_image
+string baller
+string beginner
 string co_ed
 string desired_league
 string find_a_team
+string finish
 string get_started
 string go_all_in
+string i_am_a
 string logo
 string mens
 string next
