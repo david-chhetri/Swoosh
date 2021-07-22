@@ -701,6 +701,7 @@ id checkbox
 id chronometer
 id clip_horizontal
 id clip_vertical
+id coedLeagueBtn
 id collapseActionView
 id content
 id contentPanel
@@ -742,6 +743,7 @@ id line1
 id line3
 id listMode
 id list_item
+id mensLeagueBtn
 id message
 id middle
 id multiply
@@ -808,9 +810,6 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
-id toggleButton
-id toggleButton2
-id toggleButton3
 id toggleButton4
 id toggleButton5
 id top
@@ -819,6 +818,7 @@ id uniform
 id up
 id useLogo
 id withText
+id womensLeagueBtn
 id wrap
 id wrap_content
 integer abc_config_activityDefaultDur
