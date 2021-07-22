@@ -744,6 +744,7 @@ id leagueNextBtn
 id left
 id line1
 id line3
+id linearLayout
 id listMode
 id list_item
 id mensLeagueBtn
@@ -873,7 +874,6 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
-mipmap swooshlauncher
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
