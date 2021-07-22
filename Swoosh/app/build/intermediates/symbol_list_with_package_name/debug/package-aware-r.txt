@@ -687,11 +687,12 @@ id alertTitle
 id all
 id always
 id async
+id ballerSkillBtn
 id barrier
+id beginnerSkillBtn
 id beginning
 id blocking
 id bottom
-id button
 id buttonPanel
 id center
 id center_horizontal
@@ -719,6 +720,7 @@ id expanded_menu
 id fill
 id fill_horizontal
 id fill_vertical
+id finishBtn
 id forever
 id getStartedBtn
 id gone
@@ -734,6 +736,7 @@ id imageView
 id imageView2
 id imageView3
 id imageView4
+id imageView5
 id info
 id invisible
 id italic
@@ -757,6 +760,7 @@ id packed
 id parent
 id parentPanel
 id percent
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -767,6 +771,7 @@ id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
+id searchLeaguesText
 id search_badge
 id search_bar
 id search_button
@@ -810,8 +815,6 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
-id toggleButton4
-id toggleButton5
 id top
 id topPanel
 id uniform
@@ -854,6 +857,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_finish
 layout activity_league
 layout activity_skill
 layout activity_welcome
@@ -915,12 +919,14 @@ string baller
 string beginner
 string co_ed
 string desired_league
+string exercise_background
 string find_a_team
 string finish
 string get_started
 string go_all_in
 string i_am_a
 string logo
+string looking_for_coed
 string mens
 string next
 string on_going_all_out

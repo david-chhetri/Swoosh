@@ -18,10 +18,11 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.swoosh.SkillActivity" />
-        <activity android:name="com.example.swoosh.BaseActivity" />
-        <activity android:name="com.example.swoosh.LeagueActivity" />
-        <activity android:name="com.example.swoosh.WelcomeActivity" >
+        <activity android:name="com.example.swoosh.Controller.FinishActivity" />
+        <activity android:name="com.example.swoosh.Controller.SkillActivity" />
+        <activity android:name="com.example.swoosh.Controller.BaseActivity" />
+        <activity android:name="com.example.swoosh.Controller.LeagueActivity" />
+        <activity android:name="com.example.swoosh.Controller.WelcomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
